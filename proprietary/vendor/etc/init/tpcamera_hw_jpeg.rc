@@ -1,0 +1,3 @@
+on post-fs-data
+    # enable hardware jpeg encode for tpcamera
+    chmod 0666 /dev/Vcodec

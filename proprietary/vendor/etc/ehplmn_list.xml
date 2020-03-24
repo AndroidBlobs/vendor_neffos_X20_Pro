@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<EhplmnList version="0">
+    <!-- ehplmn list from Mediatek -->
+    <network
+        sim_numeric="20412" network_numeric="20408" roaming='false'/>
+    <network
+        sim_numeric="20605,20610" network_numeric="20605,20610" roaming='false'/>
+    <network
+        sim_numeric="20815" network_numeric="20801" roaming='false'/>
+    <network
+        sim_numeric="21402,21404,21405,21406,21408,21409,21410,21411,21412,21413,21414,21415,21416,21417,21418,21419,21420,21421"
+        network_numeric="21401,21402,21403,21404,21405,21406,21407,21408,21409,21410,21411,21412,21413,21414,21415,21416,21417,21418,21419,21420,21421"
+        roaming='false'/>
+    <network
+        sim_numeric="21902" network_numeric="21901" roaming='false'/>
+    <network
+        sim_numeric="23210" network_numeric="23203,23205" roaming='false'/>
+    <network
+        sim_numeric="23211,23212" network_numeric="23201" roaming='false'/>
+    <network
+        sim_numeric="23213" network_numeric="23203" roaming='false'/>
+    <network
+        sim_numeric="23408" network_numeric="23430,23433" roaming='false'/>
+    <network
+        sim_numeric="23410,23420,23426"
+        network_numeric="23410,23420,23426,23430,23431,23432,23433,23434,23486"
+        roaming='false'/>
+    <network
+        sim_numeric="23430,23430,23431,23432,23433,23434,23486"
+        network_numeric="23430,23430,23431,23432,23433,23434,23486"
+        roaming='false'/>
+    <network
+        sim_numeric="302370,302660,302720"
+        network_numeric="302370,302220,302610,302660,302720,302780"
+        roaming='false'/>
+    <network
+        sim_numeric="302500,302510,302610,302640,302780" network_numeric="302" roaming='false'/>
+    <network
+        sim_numeric="310150,310170,310380,310410"
+        network_numeric="310,311,312,313,314,315,316"
+        roaming='false'/>
+    <network
+        sim_numeric="34001" network_numeric="20801,20815" roaming='false'/>
+    <network
+        sim_numeric="42507" network_numeric="42503" roaming='false'/>
+    <network
+        sim_numeric="42508" network_numeric="42502" roaming='false'/>
+    <network
+        sim_numeric="46000,46002,46004,46007,46008"
+        network_numeric="46000,46002,46004,46007,46008"
+        roaming='false'/>
+    <network
+        sim_numeric="46001,46009" network_numeric="46001,46009" roaming='false'/>
+    <network
+        sim_numeric="51021" network_numeric="51001" roaming='false'/>
+    <network
+        sim_numeric="72236" network_numeric="72234" roaming='false'/>
+    <network
+        sim_numeric="73001,73010" network_numeric="73001,73010" roaming='false'/>
+    <network
+        sim_numeric="73007,73008" network_numeric="73002" roaming='false'/>
+    <!-- ehplmn list from tp-link -->
+    <network
+        sim_numeric="20826,20827" network_numeric="20801,20810" roaming='false'/>
+    <network
+        sim_numeric="22603" network_numeric="22606" roaming='false'/>
+    <network
+        sim_numeric="26203" network_numeric="26207" roaming='false'/>
+    <network
+        sim_numeric="52000" network_numeric="52004" roaming='false'/>
+    <network
+        sim_numeric="52005" network_numeric="52018" roaming='false'/>
+</EhplmnList>
